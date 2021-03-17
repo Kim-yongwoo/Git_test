@@ -13,7 +13,7 @@ public class RealTest {
 			j = 1; // 1*1 2*1 3*1 되기위함?
 			
 				
-				System.out.printf("%d x %d = %d", i, j, i*j);
+				System.out.printf("%d x %d = %d", i, j, i*j); 
 				System.out.println();
 				j++; // 9까지 증감 
 				
