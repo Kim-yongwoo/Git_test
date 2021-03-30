@@ -2,7 +2,7 @@
 public class Prj_06 {
 
 	public static void main(String[] args) {
-		int a = 99;
+		int a = 100;
 		
 		if (a<100) { // if문 범위를 잡아줘야함 무조건!
 			System.out.println("100보다 작군요");
