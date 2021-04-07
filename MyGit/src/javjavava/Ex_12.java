@@ -11,7 +11,6 @@ public class Ex_12 {
 			hap = hap + i;
 		}
 		System.out.printf(" 1에서부터 11까지의 합 : %d", hap);
-		
 	}
 
 }
