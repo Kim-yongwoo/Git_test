@@ -13,6 +13,7 @@ public class Ex_22 {
 			System.out.printf("%d * %d = %d", i, j, i*j);
 			System.out.println();
 			j++;
+			
 		}
 			
 			System.out.println();
